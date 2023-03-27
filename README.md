@@ -14,8 +14,11 @@
 &nbsp;
 
 **Desktop View**
+![web](https://user-images.githubusercontent.com/94997593/227825825-4f7faeb0-3e10-4146-b507-8385c7491328.png)
+
 
 **Mobile View** <br/>
+![mobile](https://user-images.githubusercontent.com/94997593/227825838-c2d10a53-39cc-40fa-8313-138147f33b41.png)
 
 &nbsp;
 <a id="-sobre-o-projeto"></a>
@@ -80,6 +83,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## ⚙️ Funcionalidades
 
 Você pode acessar o link abaixo e visualizar o deploy:
+
+https://projeto-alkabot.vercel.app/
 
 **OU**
 
