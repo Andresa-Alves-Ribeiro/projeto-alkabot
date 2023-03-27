@@ -1,7 +1,6 @@
-
-const ColumnLeft = () => {
+const ColumnRight = () => {
     return (
-        <div className="container">
+        <div>
             <div className="col-right">
                 <aside>
                     <div className='card mb-4'>
@@ -50,4 +49,4 @@ const ColumnLeft = () => {
     )
 }
 
-export default ColumnLeft
+export default ColumnRight

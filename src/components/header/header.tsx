@@ -6,10 +6,10 @@ const Header = () => {
             <header className="header">
                 <nav className='navbar navbar-expand-md navbar-light absolute-top'>
                     <div className='container'>
-                        <div className='collapse navbar-collapse order-3 order-md-2'>
+                        <div className='collapse navbar-collapse navbar-left'>
                             <ul className='navbar-nav me-auto'>
                                 <li className='list nav-item dropdown active'>
-                                    <a className='nav-link dropdown-toggle'>Home</a>
+                                    <a className='nav-link dropdown-toggle' href={`/`}>Home</a>
                                 </li>
 
                                 <li className='list nav-item dropdown'>
@@ -22,9 +22,9 @@ const Header = () => {
                             </ul>
                         </div>
 
-                        <a className='navbar-brand order-1 order-md-3'>Alfabøt</a>
+                        <a className='navbar-brand' href={`/`}>Alfabøt</a>
 
-                        <div className='collapse navbar-collapse order-4 order-md-4 navbar-right'>
+                        <div className='collapse navbar-collapse navbar-right'>
                             <ul className='navbar-nav ms-auto'>
                                 <li className='list nav-item'>
                                     <a className='nav-link'>About</a>
