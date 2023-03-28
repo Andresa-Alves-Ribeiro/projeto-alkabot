@@ -25,7 +25,7 @@
 
 ## 💻 Sobre o projeto
 
-Neste projeto escolhi construir com Typescript e Next. Dividi cada componente em pastas separadas com seu nome respectivo. As estilizações estão agrupadas no css global, com identificação de cada seção em comentário (nesta semana irei mudar o formato de estilização para SASS). As chamadas de API's e seus types estão também separado em uma pasta própria. Sempre faço essa separação em projetos para melhorar sua identificação dos componentes e facilitar a manutenção.
+Neste projeto escolhi construir com Typescript e Next. Dividi cada componente em pastas separadas com seu nome respectivo. As estilizações estão agrupadas na estilização global (SASS), com identificação de cada seção em comentário. As chamadas de API's e seus types estão também separado em uma pasta própria. Sempre faço essa separação em projetos para melhorar sua identificação dos componentes e facilitar a manutenção.
 
 Possui as funcionalidades de:
 
@@ -55,7 +55,7 @@ Possui as funcionalidades de:
 | :placard: Vitrine.Dev |                            |
 | --------------------- | -------------------------- |
 | :sparkles: Nome       | **Projeto Alkabot**        |
-| :label: Tecnologias   | React.js, Typescript, Next, CSS |
+| :label: Tecnologias   | React.js, Typescript, Next, SASS |
 
 ---
 
@@ -69,7 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 &nbsp;
 
 <p align="center">
-<a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style&message=CSS3&color=1572B6"></a>
+<a href= "https://sass-lang.com/"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=SASS&label=Style&message=SASS&color=1572B6"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React.js&color=61dafb"></a>
   <a href= "https://www.typescriptlang.org/"><img alt="TypeScript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=3178c6&logo=TypeScript&label=Language&message=TypeScript&color=3178c6"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
